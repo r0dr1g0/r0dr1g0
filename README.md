@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r0dr1g0
+- 👋 Hi, I’m Rodrigo Mamani A
 - 👀 I’m interested in production music and programming
 - 🌱 I’m currently learning to programming PHP
 - 💞️ I’m looking to collaborate on ...
